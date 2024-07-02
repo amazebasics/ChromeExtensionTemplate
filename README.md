@@ -1,0 +1,2 @@
+# ChromeExtensionTemplate
+Chrome Extension Boilerplate
